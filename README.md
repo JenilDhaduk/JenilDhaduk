@@ -1,6 +1,6 @@
 # Hi there, I'm Jenil 👋
 
-🚀 DevOps & Software Engineer | Final Year B.Tech CE  
+🚀 DevOps & Software Engineer | B.Tech Computer Engineering
 🔧 AWS | Docker | GitHub | Linux | Python  
 💡 Always exploring automation, CI/CD, and cloud tools  
 📍 Based in Surat  
